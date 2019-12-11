@@ -1,3 +1,3 @@
-# XGboost×Optuna
-●Python code that builds a prediction model using XGBoost and Optuna. After optimizing the hyperparameter with Optuna, enter the value and turn XGBoost.  
-●XGBoostとOptunaを使って予測モデルを構築するPythonコードです。Optunaでハイパーパラメータを最適化した後、その値を入れてXGBoostを回します。
+# Software that uses the GourNavi API to list famous stores you missed.
+●Search for shops using your GPS information. From there, find the most delicious shop and tell you.
+●あなたのGPS情報を使って、お店をサーチ。その中から、最も美味しいお店を見つけて、あなたに教えます。
